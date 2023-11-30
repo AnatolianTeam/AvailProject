@@ -6,7 +6,7 @@ Form: https://x.com/AvailProject/status/1715008696835600451
  ✔️ [Website](https://www.availproject.org/)<br>
  ✔️ [Explorer](https://goldberg.avail.tools/#/explorer)<br>
  ✔️ [Telemetry](https://telemetry.avail.tools/#list/0x6f09966420b2608d1947ccfb0f2a362450d1fc7fd902c29b67c906eaa965a7ae)<br>
- ✔️ [Doküman](https://docs.availproject.org/)<br>
+ ✔️ [Doc](https://docs.availproject.org/)<br>
  ✔️ [GitHub](https://github.com/availproject)<br>
  ✔️ [Discord](https://discord.gg/TUVbtZMMpz)<br>
 
@@ -33,7 +33,6 @@ curl https://sh.rustup.rs -sSf | sh
 source $HOME/.cargo/env
 rustup update nightly
 rustup target add wasm32-unknown-unknown --toolchain nightly
-
 ```
 
 ## Installing Avail
