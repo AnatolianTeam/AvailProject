@@ -3,6 +3,7 @@
 
 ## Bağlantılar
  ✔️ [Website](https://www.availproject.org/)<br>
+ ✔️ [Explorer](https://goldberg.avail.tools/#/explorer)<br>
  ✔️ [Telemetry](https://telemetry.avail.tools/#list/0x6f09966420b2608d1947ccfb0f2a362450d1fc7fd902c29b67c906eaa965a7ae)<br>
  ✔️ [Doküman](https://docs.availproject.org/)<br>
  ✔️ [GitHub](https://github.com/availproject)<br>
