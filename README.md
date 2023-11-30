@@ -42,7 +42,7 @@ git clone https://github.com/availproject/avail.git
 cd avail
 cargo build --release -p data-avail
 mkdir -p output
-git checkout v1.7.2
+git checkout v1.8.0.3
 cargo run --locked --release -- --chain goldberg -d ./output
 ```
 * 🔴 Loglar akıyorsa CTRL C yapıp durduruyoruz.
