@@ -90,7 +90,7 @@ journalctl -f -u availd
 
 [Medium](https://medium.com/@anatolianteam)
 
-[YouTube](https://www.youtube.com/@anatolianteam
+[YouTube](https://www.youtube.com/@anatolianteam)
 
 [Telegram Duyuru](https://t.me/AnatolianTeamduyuru)
 
