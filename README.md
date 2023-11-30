@@ -1,0 +1,2 @@
+# AvailProject
+Golberg Testnet Kurulumu
