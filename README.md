@@ -1,5 +1,6 @@
 # Avail Project Golberg Testnet Kurulum Rehberi
 ![Avail-GitHub](https://github.com/AnatolianTeam/AvailProject/assets/102043225/b563145a-153b-4a1b-9e4c-54ebb58f305c)
+Form: https://x.com/AvailProject/status/1715008696835600451
 
 ## Bağlantılar
  ✔️ [Website](https://www.availproject.org/)<br>
