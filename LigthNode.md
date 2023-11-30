@@ -46,7 +46,6 @@ cargo build --release
 ```
 
 # Servis Dosyası Oluşturma
-* 🔴  `NODE_ADINIZ` yazan yere node adımızı yazıyoruz.
 ```shell
 tee sudo nano /etc/systemd/system/availightd.service > /dev/null << EOF
 [Unit]
