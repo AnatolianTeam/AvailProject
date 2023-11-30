@@ -1,4 +1,4 @@
-# Avail Project Testnet Light Client Node Kurulum Rehberi
+# Avail Project Testnet Light Client Kurulum Rehberi
 For [English](https://github.com/AnatolianTeam/AvailProject/blob/main/LigthNode-English.md)
 ![Avail-GitHub](https://github.com/AnatolianTeam/AvailProject/assets/102043225/b563145a-153b-4a1b-9e4c-54ebb58f305c)
 Light Client Interest Form - https://docs.google.com/forms/d/e/1FAIpQLSeL6aXqz6vBbYEgD1cZKaQ4vwbN2o3Rxys-wKTuKySVR-oS8g/viewform 
@@ -34,7 +34,6 @@ curl https://sh.rustup.rs -sSf | sh
 source $HOME/.cargo/env
 rustup update nightly
 rustup target add wasm32-unknown-unknown --toolchain nightly
-
 ```
 
 ## Avail Kurulması
