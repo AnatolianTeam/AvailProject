@@ -68,6 +68,7 @@ EOF
 ## Servisi Başlatma
 ```shell
 systemctl daemon-reload
+systemctl enable availd.service
 systemctl start availd.service
 systemctl status availd.service
 ```
@@ -79,15 +80,6 @@ systemctl status availd.service
 journalctl -f -u availd
 ```
 
-### Sistemi Başlatma
-```
-systemctl start dymd
-```
-
-### Sistemi Durdurma
-```
-systemctl stop dymd
-```
 
 
 # Hesaplar:
