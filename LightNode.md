@@ -25,7 +25,7 @@ apt update && apt upgrade -y
 
 ## Gerekli Kütüphanelerin Kurulması
 ```shell
-sudo apt install make clang pkg-config libssl-dev build-essential git screen protobuf-compiler -y
+apt install make clang pkg-config libssl-dev build-essential git screen protobuf-compiler -y
 ```
 
 ## Rustup Kurulumu
