@@ -59,7 +59,7 @@ After=network.target
 StartLimitIntervalSec=0
 [Service]
 User=root
-ExecStart= /root/avail/target/release/data-avail --base-path `pwd`/data --chain kate --name "NODE_ADINIZ"
+ExecStart= /root/avail/target/release/data-avail --base-path `pwd`/data --chain goldberg --name "NODE_ADINIZ"
 Restart=always
 RestartSec=120
 [Install]
